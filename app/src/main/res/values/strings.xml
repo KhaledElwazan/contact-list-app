@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts List</string>
+    <string name="dummy_contact_name">Dummy Contact Name</string>
+    <string name="dummy_contact_phone">Dummy Contact Phone</string>
+    <string name="mobile">Mobile</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="email">Email</string>
+</resources>
